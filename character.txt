@@ -1,0 +1,6 @@
+Characters have attributes:
+	Strength (5) : This determines how well they will fight, whilst in battle
+	Dexterity (5) : What level of army/shielding/weapons they can use
+	Speed (5) : This effects how long it takes to travel from city to city.
+	Intelligence (5) : Effects how you negotiate with different people.
+	Experiencee : Your Str/Dex/Speed/Int/WEAPONS,ARMOR

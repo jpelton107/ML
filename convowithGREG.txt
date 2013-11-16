@@ -1,0 +1,156 @@
+Get Are Frake: im still workin on "Medieval Legends"
+RockstarGuitar07: sweet sweet
+RockstarGuitar07: show me what you g0t
+RockstarGuitar07: if possible
+RockstarGuitar07: not possible 'eh :-(
+Get Are Frake: um.. right now im makin a story line
+Get Are Frake: this is what i have so far
+Get Are Frake: "Long ago, the empire of Rome was ruled by a fierce leader.  Conquering, and expanding his empire, he became greedy.  Slowly, the empire of Rome began to slip out of his grip.  Realizing the near downfall of Rome, the senate determined it was time for the emporer to be quietly excecuted.  Who will rule the empire next?  Prove yourself. For empire. For family. For self."
+Get Are Frake: im gonna add more to the story later
+RockstarGuitar07: sweet sweet
+RockstarGuitar07: so are we gonna have to be all 'diplomatic' and stuff?
+Get Are Frake: i havent decided yet
+Get Are Frake: i know that its going to be "Experience" based(like SF: networth)
+Get Are Frake: i'll probably make it so you can use diplomacy to gain exp
+Get Are Frake: right now im just doing work on the "sign-up"/"login" pages :-P
+Get Are Frake: and the overall structure
+Get Are Frake: nothing deep yet
+RockstarGuitar07: sweet sweet
+Get Are Frake: do you think its a decent plot?
+RockstarGuitar07: if you're strugglin' with nerdy things...i can help ;-)
+RockstarGuitar07: yeah it sounds good
+RockstarGuitar07: i wouldn't enjoy HAVING to be diplomatic...
+Get Are Frake: k
+RockstarGuitar07: i'm all about da strength/military
+Get Are Frake: when i get into ideas about that, ill have you over or somethin
+RockstarGuitar07: i mean i'd do some of it, but i wouldn't want that to be the ONLY way to success
+Get Are Frake: but right now im just wokrin on coding
+RockstarGuitar07: ah
+RockstarGuitar07: PHP action?
+Get Are Frake: yep
+Get Are Frake: ill probably keep the graphics minimal too
+Get Are Frake: more than sf...
+Get Are Frake: but for the most part minimal
+RockstarGuitar07: i can help with da graphics possibly
+RockstarGuitar07: If you want
+RockstarGuitar07: (i think i might take a web-page programming class at school, just to get rid of my required comp class credits)
+Get Are Frake: that'd be cool :-)
+RockstarGuitar07: yeah, just to get the basics y'know
+RockstarGuitar07: and hey, maybe senior year i could take the 'advanced' classes
+RockstarGuitar07: (where they go far past html... hah)
+Get Are Frake: :-)
+Get Are Frake: what attributes should i make the characters have/how could i have them effect battles/etc?
+Get Are Frake: Strength (atk)
+Get Are Frake: Dex (travel time?)
+Get Are Frake: Dexterity
+Get Are Frake: *
+Get Are Frake: Speed (travel time)
+Get Are Frake: i dunno what else tho
+RockstarGuitar07: dexterity could also be the ability to wear a certain level of armor
+RockstarGuitar07: such as an armor piece requires 10 dexterity to wear
+Get Are Frake: yea.. nice idea
+RockstarGuitar07: agility?
+RockstarGuitar07: agility could add to the ability to dodge... but that might get complicated
+Get Are Frake: hmm
+RockstarGuitar07: or perhaps it could function as the 'engines'
+Get Are Frake: nice thot
+Get Are Frake: i was thinkin speed for that
+RockstarGuitar07: k
+RockstarGuitar07: oh i didn't see that one
+RockstarGuitar07: sorry
+RockstarGuitar07: Inteligence?
+Get Are Frake: yea!!
+Get Are Frake: good one
+RockstarGuitar07: (magic users!!!!!!!!!)
+Get Are Frake: that can be for diplomacy
+Get Are Frake: (we'll get into that after beta)
+RockstarGuitar07: (jk on the magic. i just got it from there)
+Get Are Frake: im gonna try to get a beta goin befroe too long.. w/ simplicity(layout/etc.)
+RockstarGuitar07: (magic could make things weeird possibly)
+RockstarGuitar07: sweet sweet
+Get Are Frake: yea
+Get Are Frake: im thinking of having it so there are key roman cities..
+Get Are Frake: and you just travel between them (like on tradewinds,i udnno if you have ever played that)
+Get Are Frake: and you can trade armor/etc
+Get Are Frake: and fight people in the city your in
+RockstarGuitar07: yeah
+RockstarGuitar07: i was gonna suggest an Arena... but that might mess things up
+Get Are Frake: hmmm
+Get Are Frake: not bad
+RockstarGuitar07: it just might really complicate things
+Get Are Frake: like touranments where you can gain gold :-)
+RockstarGuitar07: because it could be abused.
+RockstarGuitar07: ah. tournaments= good idea for arena
+Get Are Frake: yea
+RockstarGuitar07: training/sparring=bad
+Get Are Frake: :-)
+RockstarGuitar07: training/sparring= best players could just train/spar with each other and own it up
+Get Are Frake: yea
+Get Are Frake: im thinking "Tournaments held by the Senate"
+Get Are Frake: :-)
+RockstarGuitar07: yeah
+Get Are Frake: and at the end of round... the top Exp guy becomes "emporer"
+Get Are Frake: ti'll next round
+Get Are Frake: where i make a new plot ;-)
+RockstarGuitar07: what privleges does this emporer get?
+Get Are Frake: lol, none
+Get Are Frake: just he's the best :-P
+RockstarGuitar07: haha ok
+RockstarGuitar07: This weekend(fri/sat) DON'T PLAN ANYTHING lol.
+RockstarGuitar07: i do want to make a movie though... heh
+Get Are Frake: :-)
+RockstarGuitar07: i know you'll forget and you and your LCS clan will do something
+RockstarGuitar07: i was thinking something along the lines of 'behavior'
+RockstarGuitar07: sorta like if you continue to attack smaller people
+RockstarGuitar07: then you get a bad 'reputation'
+RockstarGuitar07: and your diplomatic rating (or maybe a different attribute... like 'Exposure' )goes down
+RockstarGuitar07: buuuuuuuut.
+RockstarGuitar07: that could also be REALLY FRUSTRATING ;P
+Get Are Frake: yea
+RockstarGuitar07: scratch that, i don't want to severly complicate things
+Get Are Frake: i see what you mean :-)
+RockstarGuitar07: unless you could find a way to sort of incorporate that
+RockstarGuitar07: bleh i'm getting a whole bunch of complicated idears.
+Get Are Frake: yea
+Get Are Frake: same
+RockstarGuitar07: Strength, Dexterity, Inteligence, Agility
+RockstarGuitar07: bleh
+RockstarGuitar07: you just ask when you  want something, it's your game.
+Get Are Frake: lol
+Get Are Frake: brainstorm=good :-)
+Get Are Frake: im trying to figure out how much experience to add from like weapons and stuff
+RockstarGuitar07: yeah...
+RockstarGuitar07: there should be a 50/50 balance between militarily gained exp, and diplomatically gained exp
+Get Are Frake: nice idea
+Get Are Frake: :-)
+Get Are Frake: im gonna save this convo in a text document, btw :-)
+RockstarGuitar07: aight
+RockstarGuitar07: well...
+RockstarGuitar07: i have one question
+RockstarGuitar07: if i attack somebody... and win (assuming i'll be able to attack peeps)
+RockstarGuitar07: what exactly will the loser lose... and the winner win
+RockstarGuitar07: if that makes sense
+RockstarGuitar07: like: will i gain exp, and they lose, and also gain some 'resources' or what
+RockstarGuitar07: if you dont have answers i understand hah
+RockstarGuitar07: i don't want to flood you with ideas/thoughts/questions
+RockstarGuitar07: anyways
+RockstarGuitar07: i'm gonna go read a bit
+Get Are Frake: k
+Get Are Frake: peace
+RockstarGuitar07: if you have any burning questions any time within the next 45ish minutes.
+RockstarGuitar07: hit me up.
+Get Are Frake: wait
+RockstarGuitar07: (one last thought for the road...
+Get Are Frake: to asnwer ur question
+RockstarGuitar07: you first
+Get Are Frake: when you attack someone you gain exp(more than them) they gain exp.. and you steal gold too (maybe armor/weapons/shields.. i think you'll have a health too)
+RockstarGuitar07: hmm
+RockstarGuitar07: ok
+RockstarGuitar07: (my thought was, should different weapon types [i.e. different sorts of swords] have their own stats? like weight and such... like the heavier it is the more damage it does, but you're slower to attack)
+Get Are Frake: hmm, nice
+Get Are Frake: probably after beta
+Get Are Frake: :-)
+RockstarGuitar07: (i already don't like it, cause that complicates things, cause then you'd have to calculate how many times you can 'attack' with other thigns)
+RockstarGuitar07: YEAH
+RockstarGuitar07: i'm out. bye
+Get Are Frake: later
